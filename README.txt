@@ -1,1 +1,2 @@
-Landing page Ozare — bloco gráfico removido; apenas textos na seção Dor × Sonho. Publique index.html e a pasta assets juntos.
+Ozare — alteração única: remoção da linha inferior do cabeçalho.
+O vídeo usa assets/vsl-ozare.mp4. Inclua a pasta assets original no deploy.
