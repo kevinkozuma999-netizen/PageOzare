@@ -1,8 +1,6 @@
-OZARE — Prévia da landing page VSL
+OZARE — Revisão conforme Primeira dobra.docx
 
-Abra index.html no navegador ou envie a pasta completa para a Vercel.
-
-Inclui o vídeo MP4 e duas fotografias fornecidas.
-O formulário é uma DEMONSTRAÇÃO LOCAL: não envia leads nem agenda reuniões.
-Antes de publicar: validar métricas, depoimento do Rafael, produto anunciado, duração da conversa, política de privacidade e conectar formulário ao CRM/agendamento.
-Identidade visual inspirada na direção Ozare Foundations (preto e laranja); não foi possível acessar o CSS original do site de referência.
+Publicação Vercel: envie TODO o conteúdo desta pasta, incluindo assets/. index.html deve ficar na raiz do deploy.
+Vídeo: assets/vsl-ozare.mp4 — teste /assets/vsl-ozare.mp4 após publicar.
+Pendências TI: integrar formulário ao CRM/agendamento; substituir 3 espaços de depoimentos por materiais reais; validar alegação de R$100 mil/mês, números e duração da ligação.
+Formulário atual é somente demonstrativo, não envia dados.
